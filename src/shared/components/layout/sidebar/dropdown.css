@@ -1,0 +1,4 @@
+.dropdown:hover .dropdown-menu-right {
+    display: block;
+    background-color: antiquewhite;
+}
